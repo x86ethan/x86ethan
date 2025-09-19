@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Ethan Robert, a Full-Stack dev!
 I've always been interested in computers, tech, and systems. I started learning how to code at age 12. Over the years, I got more and more experience and knowledge about how computers work.
-Today, I'm studying Computer Science at the (https://iut.univ-lille.fr)[Universitary Institute of Technology in Lille, FR]. 
+Today, I'm studying Computer Science at the [Universitary Institute of Technology in Lille, FR](https://iut.univ-lille.fr). 
 
-If interested, you can also visit my (https://github.com/khyrthy)[former GitHub profile]. It contains old projects, like a game I made during my childhood, and old websites!
+If interested, you can also visit my [former GitHub profile](https://github.com/khyrthy). It contains old projects, like a game I made during my childhood, and old websites!
 
 <!--
 **x86ethan/x86ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
